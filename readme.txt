@@ -28,7 +28,7 @@ npm i express @types/express ts-node @types/node typescript
 npm i mongoose @types/mongoose
 
 
-
+npm i mysql2 typeorm reflect-metadata
 
 
 
